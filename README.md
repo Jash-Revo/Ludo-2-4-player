@@ -1,5 +1,4 @@
-# ludo_offline
-Offline ludo game developed in android studio
+ludo game developed in android studio
 
 
 Hello Guy(s),
