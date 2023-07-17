@@ -1,4 +1,5 @@
-ludo game developed in android studio
+ludo game developed in android studio using Java
+
 
 
 Hello Guy(s),
