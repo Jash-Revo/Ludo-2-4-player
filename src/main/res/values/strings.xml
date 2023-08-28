@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ludo Sample</string>
+    <string name="developed_by_jayanth_and_chandan">Developed by Jayanth And Chandan</string>
+    <string name="play">PLAY</string>
+    <string name="ludo">LUDO</string>
+</resources>
